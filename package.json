@@ -1,5 +1,5 @@
 {
-    "name": "মরা মুরগী",
+    "name": "NAYAN-BOT",
     "version": "5.2.3",
     "description": "simple messenger bot",
     "main": "",
@@ -8,7 +8,7 @@
         "login": "node login",
         "test": "node --trace-warnings --use_strict --async-stack-traces main"
     },
-    "author": "মেহেদী",
+    "author": "Nayan",
     "license": "GPL-3.0",
     "dependencies": {
         "aes-js": "latest",
